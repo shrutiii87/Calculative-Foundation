@@ -454,4 +454,17 @@ Calculative_foundation.ipynb
 ---
 
 
+## 👩‍💻 Shruti Bhawsar
+
+📍 Ahmedabad | 
+
+[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
+
+---
+
+⭐ **If You Like This Project**
+
+Give this repository a ⭐ and feel free to fork or contribute!
+
+📊 *Clean Models · Sharp DAX · Confident Insights*
 

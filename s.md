@@ -2,7 +2,8 @@
 
 This project applies **Linear Algebra** concepts to analyze a student performance dataset using both mathematical theory and practical implementation.
 
-Student scores are represented as vectors and matrices, enabling operations such as norms, dot products, cross products, and vector projections. The project also explores matrix decompositions including **LU** and **SVD**, along with dimensionality reduction techniques like **PCA** and **LDA**. Eigenvalues and eigenvectors are used to understand data variance and underlying patterns. Implemented using Python, Excel, and manual calculations, this project demonstrates how Linear Algebra forms the mathematical foundation of modern Data Science, Machine Learning, and Artificial Intelligence.
+This project demonstrates the application of **Linear Algebra** on a student performance dataset. It covers vector and matrix operations, norms, dot products, cross products, vector projections, LU decomposition, SVD, PCA, LDA, and eigenvalue analysis. Using Python, Excel, and manual calculations, the project highlights how mathematical concepts are applied in Data Science, Machine Learning, and AI.
+
 
 ---
 

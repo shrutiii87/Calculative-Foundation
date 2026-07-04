@@ -166,7 +166,7 @@ print(np.round(projection,2))
 
 ## Part B: Matrix Operations
 
-### Q4. form a matrix of students × subjects. Perform:
+### 🔢  Q4. form a matrix of students × subjects. Perform:
 
 ```python
 A = data
@@ -239,7 +239,7 @@ print(det)
 
 ## Part C: Linear Transformations & Geometry
 
-### Q5. Explain line, plane, and hyperplane with respect to your dataset dimensions.
+### 🔢  Q5. Explain line, plane, and hyperplane with respect to your dataset dimensions.
 
 ```python
 # LINE (1D)
@@ -263,7 +263,7 @@ print(hyperplane.head())
 
 ---
 
-### Q6. Show how dimensionality increases from 2D → 3D → higher dimensions with hyperplanes.
+### 🔢 Q6. Show how dimensionality increases from 2D → 3D → higher dimensions with hyperplanes.
 
 ```python
 # 2D
@@ -284,7 +284,7 @@ print("5D Shape:", five_d.shape)
 
 ## Part D: Eigenvalues & Decomposition
 
-### Q7.Compute the eigenvalues and eigenvectors of the covariance matrix.
+### 🔢 Q7.Compute the eigenvalues and eigenvectors of the covariance matrix.
 
 ```python
 # Select subject columns
@@ -308,7 +308,7 @@ print(eigenvectors)
 
 ---
 
-### Q8. Perform LU Decomposition of the dataset matrix.
+### 🔢  Q8. Perform LU Decomposition of the dataset matrix.
 
 ```python
 from scipy.linalg import lu
@@ -332,7 +332,7 @@ print(U)
 
 ---
 
-### Q9. Perform Singular Value Decomposition (SVD) and explain its role in dimensionality reduction.
+### 🔢  Q9. Perform Singular Value Decomposition (SVD) and explain its role in dimensionality reduction.
 
 ```python
 # Dataset matrix
@@ -357,7 +357,7 @@ print(VT)
 
 ## Part E: Dimensionality Reduction
 
-### Q10. Apply Principal Component Analysis (PCA) to reduce the dataset from multiple subjects to 2 dimensions.
+### 🔢 Q10. Apply Principal Component Analysis (PCA) to reduce the dataset from multiple subjects to 2 dimensions.
 
 ```python
 from sklearn.decomposition import PCA
@@ -373,7 +373,7 @@ print("Reduced Data (2D):\n", reduced[:5])
 
 ---
 
-### Q11. Apply Linear Discriminant Analysis (LDA) to classify students into “Above Average” and “Below Average” categories.
+### 🔢 Q11. Apply Linear Discriminant Analysis (LDA) to classify students into “Above Average” and “Below Average” categories.
 
 ```python
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis

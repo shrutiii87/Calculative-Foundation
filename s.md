@@ -1,5 +1,3 @@
-<img width="1000" height="200" alt="Screenshot 2026-07-04 174130" src="https://github.com/user-attachments/assets/e1a335e5-97c0-4bca-badd-6877925bf6f7" />
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e1a335e5-97c0-4bca-badd-6877925bf6f7"
        alt="Calculative Foundation Banner"

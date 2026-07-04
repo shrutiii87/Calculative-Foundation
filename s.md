@@ -15,6 +15,8 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 ## 🗂️ Project Files
 
+<div>
+
 | File                                   | Description                                                     |
 | -------------------------------------- | --------------------------------------------------------------- |
 | 📓 `calculative_foundation.ipynb`      | Complete Linear Algebra analysis and Python implementation      |
@@ -22,6 +24,8 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 | 📄 `Calculative_Foundation_Report.pdf` | Theory, mathematical derivations, formulas, and interpretations |
 | 🖼️ `Diagrams/`                        | Linear Algebra diagrams and visualizations                      |
 | 📘 `README.md`                         | Project documentation                                           |
+
+</div>
 
 ---
 

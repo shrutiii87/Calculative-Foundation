@@ -5,7 +5,7 @@
 
 <defs>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="bg" x1="0%" y1
 <stop offset="0%" stop-color="#0F172A">
 <animate attributeName="stop-color"
 values="#0F172A;#312E81;#2563EB;#06B6D4;#0F172A"
@@ -56,18 +56,57 @@ repeatCount="indefinite"/>
 
 </g>
 
-<!-- Graph -->
-<path
-d="M100 250
-C250 150 350 320 500 180
-S800 120 1000 200
-S1300 280 1500 150"
-fill="none"
-stroke="#67E8F9"
-stroke-width="4"
-stroke-linecap="round">
+<!-- Graph 1 -->
 
-<animate attributeName="stroke-dasharray"
+<path
+d="M0 165
+C250 95 500 240 800 165
+S1200 95 1600 165"
+fill="none"
+stroke="#8B5CF6"
+stroke-width="2"
+stroke-opacity="0.15">
+
+<animate
+attributeName="stroke-dasharray"
+values="0,2200;2200,0"
+dur="7s"
+repeatCount="indefinite"/>
+
+</path>
+
+<!-- Graph 2 -->
+
+<path
+d="M0 175
+C250 240 500 110 800 175
+S1200 240 1600 175"
+fill="none"
+stroke="#22D3EE"
+stroke-width="3"
+stroke-opacity="0.35">
+
+<animate
+attributeName="stroke-dasharray"
+values="0,2200;2200,0"
+dur="6s"
+repeatCount="indefinite"/>
+
+</path>
+
+<!-- Graph 3 -->
+
+<path
+d="M0 185
+C250 140 500 215 800 185
+S1200 140 1600 185"
+fill="none"
+stroke="#3B82F6"
+stroke-width="2"
+stroke-opacity="0.20">
+
+<animate
+attributeName="stroke-dasharray"
 values="0,2200;2200,0"
 dur="5s"
 repeatCount="indefinite"/>
@@ -148,3 +187,5 @@ Mathematics • Statistics • Python • Data Analysis
 </text>
 
 </svg>
+![svgviewer-output](https://github.com/user-attachments/assets/acd50e12-a835-457d-ab63-18fc967d48c1)
+

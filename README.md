@@ -48,3 +48,60 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 <img src="https://img.shields.io/badge/Eigenvalues_&_Eigenvectors-F59E0B?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 🎬 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1V1D9kEmD8bw9lGKjR7WO2MhYfowj-BYg/view?usp=sharing)
+
+📹 Click the badge above to watch the complete project demonstration.
+
+---
+
+### Theory part 
+
+<img width="800" height="420" alt="ezgif-2ef048b9399a16bb" src="https://github.com/user-attachments/assets/04ecbccb-d1a3-4f7a-8dd4-a3e88c4b1d8e" />
+
+### Jupyter notebook 
+
+<img width="800" height="420" alt="ezgif-1c1f29978ef62004" src="https://github.com/user-attachments/assets/415f9b3e-394f-4a27-931c-29f41d920d13" />
+
+---
+
+### 📗 Statistical Topics Covered
+
+#### imported libraries
+
+## 🔢 Q1 Represent each student's subject scores as a vector.
+
+```python
+# Select only subject columns
+data = df[["Math", "Physics", "Chemistry", "English", "Computer"]].values
+
+# Student vectors
+v1 = data[0]   # S01
+v2 = data[1]   # S02
+
+print("Student 1 (S01) Vector:", v1)
+print("Student 2 (S02) Vector:", v2)
+```
+### 🎯 Insight:
+### Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
+
+## 🔢 Q2. Compute:
+
+### (a) Norm-1 and Norm-2 of vectors
+
+```python
+l1 = np.linalg.norm(v1, ord=1)
+l2 = np.linalg.norm(v1, ord=2)
+
+print("\nL1 Norm:", l1)
+print("L2 Norm:", l2)
+```
+### 📏 Interpretation:
+* L1 norm = 443 → total marks scored by S01 (sum of absolute values).
+* L2 norm ≈ 198.54 → geometric length of the score vector in 5-D space.
+* Both confirm S01 is a strong scorer overall. 🌟
+

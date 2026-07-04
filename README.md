@@ -71,7 +71,11 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 ## 📗 Statistical Topics Covered
 
+---
+
 #### imported libraries
+
+---
 
 ### 🔢 Q1 Represent each student's subject scores as a vector.
 
@@ -89,6 +93,8 @@ print("Student 2 (S02) Vector:", v2)
 #### 🎯 Insight:
 - Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
 
+---
+
 ### 🔢 Q2. Compute:
 
 #### (a) Norm-1 and Norm-2 of vectors
@@ -104,4 +110,6 @@ print("L2 Norm:", l2)
 - L1 norm = 443 → total marks scored by S01 (sum of absolute values).
 - L2 norm ≈ 198.54 → geometric length of the score vector in 5-D space.
 - Both confirm S01 is a strong scorer overall. 🌟
+
+---
 

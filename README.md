@@ -86,8 +86,8 @@ v2 = data[1]   # S02
 print("Student 1 (S01) Vector:", v1)
 print("Student 2 (S02) Vector:", v2)
 ```
-### 🎯 Insight:
-### Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
+#### 🎯 Insight:
+* Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
 
 ### 🔢 Q2. Compute:
 

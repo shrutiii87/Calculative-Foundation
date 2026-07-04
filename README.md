@@ -431,7 +431,27 @@ print(lda_result[:5])
 
 ---
 
+# 🚀 How to Run
 
+Install the required libraries:
+
+```bash
+pip install pandas numpy scipy scikit-learn
+```
+
+Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Run the notebook:
+
+```text
+Calculative_foundation.ipynb
+```
+
+---
 
 
 

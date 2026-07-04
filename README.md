@@ -87,11 +87,11 @@ print("Student 1 (S01) Vector:", v1)
 print("Student 2 (S02) Vector:", v2)
 ```
 #### 🎯 Insight:
-* Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
+- Each student is now a 5-dimensional vector in the subject space. S01 = high performer 🏆, S02 = average performer.
 
 ### 🔢 Q2. Compute:
 
-### (a) Norm-1 and Norm-2 of vectors
+#### (a) Norm-1 and Norm-2 of vectors
 
 ```python
 l1 = np.linalg.norm(v1, ord=1)
@@ -100,8 +100,8 @@ l2 = np.linalg.norm(v1, ord=2)
 print("\nL1 Norm:", l1)
 print("L2 Norm:", l2)
 ```
-### 📏 Interpretation:
-* L1 norm = 443 → total marks scored by S01 (sum of absolute values).
-* L2 norm ≈ 198.54 → geometric length of the score vector in 5-D space.
-* Both confirm S01 is a strong scorer overall. 🌟
+#### 📏 Interpretation:
+- L1 norm = 443 → total marks scored by S01 (sum of absolute values).
+- L2 norm ≈ 198.54 → geometric length of the score vector in 5-D space.
+- Both confirm S01 is a strong scorer overall. 🌟
 

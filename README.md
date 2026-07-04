@@ -29,6 +29,7 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 🛠️ Tools Used
 
 <div>
+  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -42,4 +43,5 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 <img src="https://img.shields.io/badge/SVD-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LU_Decomposition-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Eigenvalues_&_Eigenvectors-F59E0B?style=for-the-badge"/>
+
 </div>

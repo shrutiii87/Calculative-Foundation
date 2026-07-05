@@ -60,6 +60,11 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 ---
 
+<img width="960" height="540" alt="Screenshot 2026-07-05 164552" src="https://github.com/user-attachments/assets/609038d8-1a94-4568-9c50-384bee6a830e" />
+
+
+---
+
 ### 📜 Theory part 
 
 <img width="800" height="420" alt="ezgif-1fde48dcdd9f9d09" src="https://github.com/user-attachments/assets/f0cdb0c5-0254-4d0c-965a-c7d71ae3722a" />

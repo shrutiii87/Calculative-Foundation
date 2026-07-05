@@ -57,11 +57,6 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 📹 Click the badge above to watch the complete project demonstration.
 
----
-
-### Problem i solve :- 
-
-<img width="826" height="518" alt="Screenshot 2026-07-05 154349" src="https://github.com/user-attachments/assets/a8743df2-cd6b-404e-8770-c006e2e22d69" />
 
 ---
 

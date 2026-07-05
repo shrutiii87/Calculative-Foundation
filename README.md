@@ -75,22 +75,6 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 <img width="960" height="540" alt="Screenshot 2026-07-05 112448" src="https://github.com/user-attachments/assets/7d79b6a8-2a12-4856-a66c-3fb9cb12c5cc" />
 
 ---
-```mermaid
-gitGraph
-    commit id: "Vector Basics"
-    commit id: "Matrix Basics"
-    commit id: "Matrix Operations"
-    commit id: "Norms"
-    commit id: "Dot Product"
-    commit id: "Cross Product"
-    commit id: "Projection"
-    commit id: "Eigenvalues"
-    commit id: "LU"
-    commit id: "SVD"
-    commit id: "PCA"
-    commit id: "LDA"
-```
----
 
 
 ## 📗 Statistical Topics Covered

@@ -76,6 +76,59 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 ---
 
+```mermaid
+flowchart LR
+
+    classDef section fill:#1E293B,stroke:#3B82F6,color:#fff,stroke-width:2px;
+    classDef topic fill:#0F172A,stroke:#64748B,color:#fff;
+    classDef ml fill:#111827,stroke:#10B981,color:#fff;
+
+    A([🎓 Student])
+
+    subgraph Foundation
+        V1[Vector Basics]
+        V2[Matrix Basics]
+        V3[Matrix Operations]
+        V4[Norms]
+    end
+
+    subgraph Products
+        P1[Dot Product]
+        P2[Cross Product]
+        P3[Projection]
+    end
+
+    subgraph Matrix
+        M1[Eigenvalues]
+        M2[LU Decomposition]
+        M3[SVD]
+    end
+
+    subgraph Machine Learning
+        ML1[PCA]
+        ML2[LDA]
+    end
+
+    A --> V1
+    V1 --> V2
+    V2 --> V3
+    V3 --> V4
+    V4 --> P1
+    P1 --> P2
+    P2 --> P3
+    P3 --> M1
+    M1 --> M2
+    M2 --> M3
+    M3 --> ML1
+    ML1 --> ML2
+
+    class Foundation,Products,Matrix section
+    class Machine Learning ml
+    class A,V1,V2,V3,V4,P1,P2,P3,M1,M2,M3,ML1,ML2 topic
+```
+
+---
+
 
 ## 📗 Statistical Topics Covered
 

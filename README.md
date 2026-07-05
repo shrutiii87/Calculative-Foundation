@@ -60,17 +60,17 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 
 ---
 
-### Image 
+### 🖼️ Image :- 
 
 <img width="960" height="540" alt="Screenshot 2026-07-05 190738" src="https://github.com/user-attachments/assets/3d9e654c-45f4-4ead-9964-af948d8fbda7" />
 
 ---
 
-### 📜 Theory part 
+### 📜 Theory part :-
 
 <img width="800" height="420" alt="ezgif-1fde48dcdd9f9d09" src="https://github.com/user-attachments/assets/f0cdb0c5-0254-4d0c-965a-c7d71ae3722a" />
 
-### 📝 Jupyter notebook 
+### 📝 Jupyter notebook :- 
 
 <img width="800" height="420" alt="ezgif-8b1e22c8f04559de" src="https://github.com/user-attachments/assets/0010f732-1c7b-4f26-8886-c6a0e196080c" />
 

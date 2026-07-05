@@ -3,57 +3,6 @@
 
 </div>
 
-
-────────────────────────────────────────────
-
-            Linear Algebra
-      Student Performance Analysis
-
-      Beautiful mathematics.
-      Meaningful insights.
-
-────────────────────────────────────────────
-
-[ View Notebook ]   [ Read Theory ]
-
-────────────────────────────────────────────
-
-"50 students.
-5 subjects.
-One mathematical story."
-
-────────────────────────────────────────────
-
-Performance
-
-█████████████████ 98.6%
-
-Principal Component
-
-█████████████████ PC1
-
-Classification
-
-█████████████████ LDA
-
-────────────────────────────────────────────
-
-Gallery
-
-[ Image ]
-
-[ PCA ]
-
-[ LDA ]
-
-────────────────────────────────────────────
-
-Built with
-
-Python • NumPy • Pandas • Scikit-learn
-
-────────────────────────────────────────────
-
 This project applies **Linear Algebra** concepts to analyze a student performance dataset using both mathematical theory and practical implementation.
 
 This project demonstrates the application of **Linear Algebra** on a student performance dataset. It covers vector and matrix operations, norms, dot products, cross products, vector projections, LU decomposition, SVD, PCA, LDA, and eigenvalue analysis. Using Python, Excel, and manual calculations, the project highlights how mathematical concepts are applied in Data Science, Machine Learning, and AI.

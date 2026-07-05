@@ -10,7 +10,7 @@ A([🧮 Linear Algebra])
 --> G([📉 PCA & LDA])
 --> H([💡 Insights])
 
-style A fill:#7C3AED,color:#fff,stroke:#6D28D9,stroke-width:3px
+style A fill:#7C3AED,color:#f44,stroke:#6D28D9,stroke-width:3px
 style B fill:#F3E8FF,stroke:#8B5CF6
 style C fill:#F3E8FF,stroke:#8B5CF6
 style D fill:#F3E8FF,stroke:#8B5CF6

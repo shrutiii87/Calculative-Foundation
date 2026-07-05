@@ -23,7 +23,7 @@ analyzing and transforming a dataset using Linear Algebra concepts to derive mea
 | -------------------------------------- | --------------------------------------------------------------- |
 | 📓 `calculative_foundation.ipynb`      | Complete Linear Algebra analysis and Python implementation      |
 | 📊 `student_performance_dataset.xlsx`  | Student performance dataset                                     |
-| 📄 `Calculative_Foundation_Report.pdf` | Theory, mathematical derivations, formulas, and interpretations |
+| 📄 `Calculative_Foundation_theory.pdf` | Theory, mathematical derivations, formulas, and interpretations |
 | 🖼️ `Diagrams/`                        | Linear Algebra diagrams and visualizations                      |
 | 📘 `README.md`                         | Project documentation                                           |
 
